@@ -10,4 +10,4 @@ AttendX is an open-source Python project leveraging the power of OpenCV for buil
 - Intuitive user interface with actionable insights for administrators.
 
 **Authors:**
-- @(https://github.com/RaunakDasgupta) 
+- [@RaunakDasgupta](https://www.github.com/RaunakDasgupta)
